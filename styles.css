@@ -1,14 +1,23 @@
-
-body{
-	background-color:#00ff00;
-	/* font-family:verdana, arial; */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
 }
 
-div{
-	width:70%;
-	height:720px;
-	margin:0 auto;
-	padding:5% 5%;
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
-/* Use the ctrl and / keys to add or remove comments */
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.course {
+    background-color: white;
+    margin
