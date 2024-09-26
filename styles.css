@@ -20,4 +20,36 @@ header {
 
 .course {
     background-color: white;
-    margin
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.course h2 {
+    margin-top: 0;
+}
+
+.course a {
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+.course p {
+    line-height: 1.5;
+}
+
+.progress-bar {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.progress-bar div {
+    background-color: #4CAF50;
+    height: 20px;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+}
