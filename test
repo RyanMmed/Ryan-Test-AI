@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course 1: Introduction to Web Development</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Course 1: Introduction to Web Development</h1>
+</header>
+
+<div class="container">
+    <h2>Course Overview</h2>
+    <p>This course introduces the basics of web development. You'll learn how to create websites using HTML for structure, CSS for styling, and JavaScript for interactivity. Topics include responsive design, layouts, and working with frameworks.</p>
+
+    <h2>Progress</h2>
+    <div class="progress-bar">
+        <div style="width: 75%;">75% Completed</div>
+    </div>
+
+    <h2>Resources</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/html/">HTML Tutorials</a></li>
+        <li><a href="https://www.w3schools.com/css/">CSS Tutorials</a></li>
+        <li><a href="https://www.javascript.com/">JavaScript Basics</a></li>
+    </ul>
+
+    <a href="index.html" class="link">Back to Courses</a>
+</div>
+
+</body>
+</html>
